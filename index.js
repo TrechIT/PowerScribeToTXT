@@ -2,7 +2,7 @@ const fs = require('fs');
 const xml2js = require('xml2js');
 
 const xmlData = `
-------PAST XML File Contents HERE -----------
+------PASTE XML File Contents HERE -----------
 `;
 
 // Parse XML data to JavaScript object
